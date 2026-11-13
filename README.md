@@ -90,24 +90,39 @@ Both passive/active reconnaissance (`W2-PM1`) and local network scanning (`W2-PM
 
 ### Module 1 (`W2-PM1`): Footprinting `networkwalks.com`
 * **Task 1 — `whois` Domain Lookup:**
-  ![Whois Part 1](screenshots/01-whois-a.png)
-  ![Whois Part 2](screenshots/01-whois-b.png)
-  ![Whois Part 3](screenshots/01-whois-c.png)
+  ![Whois Part 1]
+
+<img width="1600" height="865" alt="01-whois-a" src="https://github.com/user-attachments/assets/9fd884b7-18b6-4235-b019-537e65a8b668" />
+
+  ![Whois Part 2]
+  <img width="1600" height="900" alt="01-whois-b" src="https://github.com/user-attachments/assets/8f74b21d-5db2-453e-a225-5bdd4ddaa31d" />
+
+  ![Whois Part 3] <img width="1600" height="900" alt="01-whois-c" src="https://github.com/user-attachments/assets/6d5dbecc-a5f3-439a-9bf7-e3e4ddd865fa" />
+<img width="1600" height="900" alt="01-whois-d" src="https://github.com/user-attachments/assets/45e4c66a-e9cf-4fa5-bf8b-7f877251d305" />
+
 * **Task 2 — `whatweb` Technology Fingerprinting:**
-  ![WhatWeb Output](screenshots/02-whatweb.png)
+  <img width="1598" height="310" alt="02-whatweb-a" src="https://github.com/user-attachments/assets/38e434cc-5976-4263-ae50-e11c3d979769" />
+
 * **Task 3 — `nslookup` DNS Resolution:**
-  ![NSLookup Output](screenshots/03-nslookup.png)
+ <img width="578" height="391" alt="03-nslookup" src="https://github.com/user-attachments/assets/530bcba2-2b33-4be0-8ee3-ea958d6d5814" />
+
 * **Task 4 — `curl -I` HTTP Headers:**
-  ![Curl Headers](screenshots/04-netwalks.png)
+<img width="1595" height="591" alt="04-netwalks" src="https://github.com/user-attachments/assets/fc040e8e-94d5-4990-afab-710f26b9f68a" />
+
 * **Task 5 — `wafw00f` Firewall Detection:**
-  ![Wafw00f Output](screenshots/05-wafw00f.png)
+ <img width="761" height="569" alt="05-wafw00f" src="https://github.com/user-attachments/assets/ac09e57a-634a-4492-b459-48b9301064e4" />
+
 * **Task 6 — `dnsrecon` DNS Enumeration:**
-  ![DNSRecon Output](screenshots/06-dnsrecon.png)
+<img width="1268" height="646" alt="06-dnsrecon" src="https://github.com/user-attachments/assets/5a94f1a7-55c9-4b3f-9b01-6a28851881b4" />
+
 
 ### Module 5 (`W2-PM5`): Zenmap Network Scanning
 * **Task 2 — Local IP & Subnet (`ip -4 addr`):**
-  ![Local IP Subnet](screenshots/07-ip-subnet.png)
+ <img width="944" height="359" alt="07-ip-subnet" src="https://github.com/user-attachments/assets/22323280-519d-465a-9d51-aa3d501ec02b" />
+
 * **Tasks 3–6 — Zenmap Ping Scan (`nmap -sn 10.0.0.0/24`):**
-  ![Zenmap Ping Scan](screenshots/08-zenmap-ping-scan.png)
+<img width="671" height="611" alt="08-zenmap-ping-scan" src="https://github.com/user-attachments/assets/4e9e681a-ecdc-4658-8291-cd5385d8a9ca" />
+
 * **Task 7 — Zenmap Network Topology & Legend:**
-  ![Zenmap Topology](screenshots/09-zenmap-topology.png)
+ <img width="981" height="678" alt="09-zenmap-topology" src="https://github.com/user-attachments/assets/75fb7c85-aef1-4fb8-9b0f-6333485fc28f" />
+
