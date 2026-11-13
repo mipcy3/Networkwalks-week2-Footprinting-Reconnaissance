@@ -16,7 +16,7 @@
 ---
 
 ## 1. Liability Disclaimer
-This penetration testing and reconnaissance assessment was conducted strictly under written authorization (*Reference No. NW-LOA-B082-017, issued by **Sonia John, Managing Director, Networkwalks) for educational and internship training purposes under **Batch B082*. All activities were strictly limited to non-destructive passive/light reconnaissance of networkwalks.com and host discovery scanning of the tester's own local subnet (10.0.0.0/24), in full compliance with all scope boundaries and prohibited-activity conditions.
+This penetration testing and reconnaissance assessment was conducted strictly under written authorization (*Reference No. NW-LOA-B082-017, issued by **Sonia John, Managing Director, Networkwalks) for educational and internship training purposes under **Batch B084*. All activities were strictly limited to non-destructive passive/light reconnaissance of networkwalks.com and host discovery scanning of the tester's own local subnet (10.0.0.0/24), in full compliance with all scope boundaries and prohibited-activity conditions.
 
 ---
 
